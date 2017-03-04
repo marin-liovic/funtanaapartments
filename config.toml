@@ -46,7 +46,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Top Apartment"
     description = "Upper apartment has 100 square meters. somem mdodmf sakfjsf salkflk  aflsalfk amlsdlk akdf kaflsk asf "
-    url = "#"
+    url = "/apartment/top"
     button = "Details"
     icon = "icon-arrow-up-circle"
     img = "img_7.jpg"
@@ -54,7 +54,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Left Apartment"
     description = "Left apartment has 2 bedrooms. asmd ekfj fjwefjkkjfjkgj 3rjg jvmldls ljklkf lslfk slkklflks fkslkfj lsnl"
-    url = "#"
+    url = "/apartment/left"
     button = "Details"
     icon = "icon-arrow-left-circle"
     img = "img_8.jpg"
@@ -62,7 +62,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Right Apartment"
     description = "Right apartment is a single room. sf sjdf jksdkjfk j3jkrfijk 3n n37jk 3kj jf 3fmn3krjfi jk3rj 3k jk4"
-    url = "#"
+    url = "/apartment/right"
     button = "Details"
     icon = "icon-arrow-right-circle"
     img = "img_10.jpg"
@@ -77,44 +77,7 @@ theme = "hugo-elate-theme"
   # Apartments section
   [params.apartments]
     title = "Our Apartments"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-
-    [[params.apartments.row]]
-      img = "work_1.jpg"
-      alt = "Image2"
-      title = "Project 1"
-      subtitle = "Branding"
-
-    [[params.apartments.row]]
-      img = "work_2.jpg"
-      alt = "Image2"
-      title = "Project 2"
-      subtitle = "Design"
-
-    [[params.apartments.row]]
-      img = "work_3.jpg"
-      alt = "Image3"
-      title = "Project 3"
-      subtitle = "Design"
-
-    [[params.apartments.row]]
-      img = "work_4.jpg"
-      alt = "Image4"
-      title = "Project 4"
-      subtitle = "Design"
-
-    [[params.apartments.row]]
-      img = "work_5.jpg"
-      alt = "Image5"
-      title = "Project 5"
-      subtitle = "Design"
-
-    [[params.apartments.row]]
-      img = "work_6.jpg"
-      alt = "Image6"
-      title = "Project 6"
-      subtitle = "Design"
-
+    description = "Our apartments are located in a 2 story house build in 2017. House consists of total 3 apartments. You can choose between two smaller apartments on ground floor and a big apartment at first story."
  
   # Contact section
   [params.contact]
