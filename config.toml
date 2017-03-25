@@ -46,7 +46,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Big Apartment"
     description = "The big apartment (100 m2) is located on the first floor and can accommodate up to 6 people. The apartment consists of a big living room with kitchen and 2 bedrooms. Top tip: Terrace is the perfect place to enjoy your morning coffee ;)"
-    url = "/apartment/top"
+    url = "/apartment/big"
     button = "Details"
     icon = "icon-arrow-up-circle"
     img = "img_7.jpg"

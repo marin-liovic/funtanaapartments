@@ -3,10 +3,13 @@
         {{ partial "head.html" .}}
     </head>
     <body>
+		{{ partial "nav.html" .}}
     	<section id="fh5co-work" data-section="work">
 			<div class="container">
-				<h1 class="to-animate">{{ .Title }}</h2>
-		 		<h2 class="to-animate">{{ .Params.description }}</h2>
+				<div class="section-heading">
+					<h2 class="to-animate; text-center">{{ .Title }}</h2>
+					<h3 class="to-animate">{{ .Params.description }}</h3>
+				</div>
 				<div class="row row-bottom-padded-sm">
 				{{ range .Params.image }}
 					<div class="col-md-4 col-sm-6 col-xxs-12">

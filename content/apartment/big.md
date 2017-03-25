@@ -1,39 +1,40 @@
 +++
-title = "Top appartment"
+title = "The Big Apartment"
 description = "Upper apartment has 100 square meters and is niceeeee!"
+short_navigation = true
 
 [[image]]
-  img = "/top/bed.jpg"
+  img = "/big/bed.jpg"
   alt = "Bed"
   title = "Bed"
   subtitle = "Master bedroom"
 
 [[image]]
-  img = "/top/shower.jpg"
+  img = "/big/shower.jpg"
   alt = "Shower"
   title = "Shower"
   subtitle = "Bathroom"
 
 [[image]]
-  img = "/top/stairs.jpg"
+  img = "/big/stairs.jpg"
   alt = "Stairs"
   title = "Stairs"
   subtitle = "Main hallway"
 
 [[image]]
-  img = "/top/sofa.jpg"
+  img = "/big/sofa.jpg"
   alt = "Sofa"
   title = "Sofa"
   subtitle = "Living room"
 
 [[image]]
-  img = "/top/table.jpg"
+  img = "/big/table.jpg"
   alt = "Table"
   title = "Dining table"
   subtitle = "Living room"
 
 [[image]]
-  img = "/top/kitchen.jpg"
+  img = "/big/kitchen.jpg"
   alt = "Kitchen"
   title = "Kitchen stuff"
   subtitle = "Kitchen"
