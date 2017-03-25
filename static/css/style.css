@@ -459,13 +459,8 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   margin-top: -150px;
   z-index: 10;
-  padding-bottom: 7em;
 }
-@media screen and (max-width: 768px) {
-  #fh5co-intro {
-    padding-bottom: 3em;
-  }
-}
+
 #fh5co-intro > div {
   display: -webkit-box;
   display: -moz-box;

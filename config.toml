@@ -44,24 +44,24 @@ theme = "hugo-elate-theme"
   [params.intro]
 
   [[params.intro.item]]
-    title = "Top Apartment"
-    description = "Upper apartment has 100 square meters. somem mdodmf sakfjsf salkflk  aflsalfk amlsdlk akdf kaflsk asf "
+    title = "Big Apartment"
+    description = "The big apartment (100 m2) is located on the first floor and can accommodate up to 6 people. The apartment consists of a big living room with kitchen and 2 bedrooms. Top tip: Terrace is the perfect place to enjoy your morning coffee ;)"
     url = "/apartment/top"
     button = "Details"
     icon = "icon-arrow-up-circle"
     img = "img_7.jpg"
 
   [[params.intro.item]]
-    title = "Left Apartment"
-    description = "Left apartment has 2 bedrooms. asmd ekfj fjwefjkkjfjkgj 3rjg jvmldls ljklkf lslfk slkklflks fkslkfj lsnl"
+    title = "Small Apartment"
+    description = "The small apartment (55m2) is located on the ground floor to the left and can accommodate up to 4 people. The apartment has a big living room with kitchen and 1 bedroom. Top tip: The couch is the perfect place to rest up until your next adventure ;)"
     url = "/apartment/left"
     button = "Details"
     icon = "icon-arrow-left-circle"
     img = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Right Apartment"
-    description = "Right apartment is a single room. sf sjdf jksdkjfk j3jkrfijk 3n n37jk 3kj jf 3fmn3krjfi jk3rj 3k jk4"
+    title = "Studio Apartment"
+    description = "Studio apartment (45m2) is located on the ground floor to the right and can accommodate up to 3 people. It has a big living room with kitchen and a comfy bed. Top tip: Jump into the bed after a perfect Istrian lunch and watch TV ;)"
     url = "/apartment/right"
     button = "Details"
     icon = "icon-arrow-right-circle"
@@ -77,7 +77,7 @@ theme = "hugo-elate-theme"
   # Apartments section
   [params.apartments]
     title = "Our Apartments"
-    description = "Our apartments are located in a 2 story house build in 2017. House consists of total 3 apartments. You can choose between two smaller apartments on ground floor and a big apartment at first story."
+    description = "Our apartments are located in a brand new two story house built in 2017 which consists of 3 apartments. You can choose between the studio and the small apartment on the ground floor and the big apartment on the first floor. All apartments have parking space, air conditioning and free WIFI."
  
   # Contact section
   [params.contact]
