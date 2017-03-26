@@ -1,7 +1,17 @@
 +++
 title = "The Big Apartment"
-description = "Upper apartment has 100 square meters and is niceeeee!"
 short_navigation = true
+
+[[feature]]
+  value = "size of 100m2 which accommodates up to 6 people"
+[[feature]]
+  value = "living room with kitchen, 2 bedrooms, 1 bathroom and a terrace"
+[[feature]]
+  value = "smart TV and free WIFI for entertainment"
+[[feature]]
+  value = "air conditioning"
+[[feature]]
+  value = "parking space"
 
 [[image]]
   img = "/big/bed.jpg"
@@ -40,6 +50,4 @@ short_navigation = true
   subtitle = "Kitchen"
 
 +++
-
-this is content
 
