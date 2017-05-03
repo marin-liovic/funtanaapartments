@@ -3,15 +3,23 @@ title = "The Big Apartment"
 short_navigation = true
 
 [[feature]]
-  value = "size of 100m2 which accommodates up to 6 people"
+  value = "size of 95m2 which accommodates up to 6 people"
 [[feature]]
   value = "living room with kitchen, 2 bedrooms, 1 bathroom and a terrace"
+[[feature]]
+  value = "two 160×200 beds and 140×200 sofa"
+[[feature]]
+  value = "fully functional kitchen with coffee machine, toaster and other kitchen appliances"
 [[feature]]
   value = "smart TV and free WIFI for entertainment"
 [[feature]]
   value = "air conditioning"
 [[feature]]
-  value = "parking space"
+  value = "free parking space"
+[[feature]]
+  value = "garden access"
+[[feature]]
+  value = "no smoking indoors"
 
 [[image]]
   img = "/big/bed.jpg"

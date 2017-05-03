@@ -4,14 +4,13 @@
     </head>
     <body>
 		{{ partial "nav.html" .}}
-    	<section id="fh5co-work" data-section="work">
+    	<section id="fh5co-work" data-section="home">
 			<div class="container">
 				<div class="section-heading">
 					<h2 class="to-animate text-center">{{ .Title }}</h2>
 				</div>
 
 				<div class="features to-animate">
-					<h3>Features</h3>
 					<ul>
 						{{ range .Params.feature}}
 						<li>{{ .value }}</li>
@@ -20,7 +19,6 @@
 				</div>
 
 				<div class="images to-animate">
-					<h3>Images</h3>
 					<div class="row row-bottom-padded-sm">
 						{{ range .Params.image }}
 						<div class="col-md-4 col-sm-6 col-xxs-12">
@@ -39,6 +37,8 @@
 				</div>
 			</div>
 		</section>
+		{{ partial "contact.html" .}}
+		{{ partial "footer.html" .}}
 		{{ partial "js.html" .}}
     </body>
 </html>
