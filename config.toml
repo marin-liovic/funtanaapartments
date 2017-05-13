@@ -9,7 +9,7 @@ theme = "hugo-elate-theme"
   # Meta
   author = ""
   description = ""
-  email = ""
+  email = "info@funtanaapartments.com"
   # Navigation
   [params.navigation]
     brand = "Funtana Apartments"
@@ -75,7 +75,7 @@ theme = "hugo-elate-theme"
   # Apartments section
   [params.apartments]
     title = "Our Apartments"
-    description = "Our apartments are located in a brand new two story house built in 2017 which consists of 3 apartments. You can choose between the studio and the small apartment on the ground floor and the big apartment on the first floor. All apartments have parking space, air conditioning and free WIFI."
+    description = "Our apartments are located in a brand new two story house built in 2017 which consists of 3 apartments. You can choose between the studio and the small apartment on the ground floor and the big apartment on the first floor. All apartments have a parking space, air conditioning and free WIFI."
  
   # Contact section
   [params.contact]
@@ -87,7 +87,7 @@ theme = "hugo-elate-theme"
     details = [
         ["icon-home", "Dalmatinska 11k, <br> Funtana, Croatia"],
         ["icon-phone", "+385 91 554 7733"],
-        ["icon-envelope", "funtanaapartments@googlegroups.com"],
+        ["icon-envelope", "info@funtanaapartments.com"],
         ["icon-globe", '<a href="http://www.funtanaapartments.com" target="_blank">funtanaapartments.com</a>']
       ]
 
