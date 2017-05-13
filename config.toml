@@ -43,7 +43,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Big Apartment"
-    description = "The big apartment (100 m2) is located on the first floor and can accommodate up to 6 people. The apartment consists of a big living room with kitchen and 2 bedrooms. Top tip: Terrace is the perfect place to enjoy your morning coffee ;)"
+    description = "The big apartment (95 m2) is located on the first floor and can accommodate up to 6 people. The apartment consists of a big living room with kitchen and 2 bedrooms. Top tip: Terrace is the perfect place to enjoy your morning coffee ;)"
     url = "/apartment/big"
     button = "Details"
     icon = "icon-arrow-up-circle"
@@ -51,16 +51,16 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Small Apartment"
-    description = "The small apartment (55m2) is located on the ground floor to the left and can accommodate up to 4 people. The apartment has a big living room with kitchen and 1 bedroom. Top tip: The couch is the perfect place to rest up until your next adventure ;)"
-    url = "/apartment/left"
+    description = "The small apartment (51m2) is located on the ground floor to the left and can accommodate up to 4 people. The apartment has a big living room with kitchen and 1 bedroom. Top tip: The couch is the perfect place to rest up until your next adventure ;)"
+    url = "/apartment/small"
     button = "Details"
     icon = "icon-arrow-left-circle"
     img = "img_8.jpg"
 
   [[params.intro.item]]
     title = "Studio Apartment"
-    description = "Studio apartment (45m2) is located on the ground floor to the right and can accommodate up to 3 people. It has a big living room with kitchen and a comfy bed. Top tip: Jump into the bed after a perfect Istrian lunch and watch TV ;)"
-    url = "/apartment/right"
+    description = "Studio apartment (42m2) is located on the ground floor to the right and can accommodate up to 3 people. It has a big living room with kitchen and a comfy bed. Top tip: Jump into the bed after a perfect Istrian lunch and watch TV ;)"
+    url = "/apartment/studio"
     button = "Details"
     icon = "icon-arrow-right-circle"
     img = "img_10.jpg"
